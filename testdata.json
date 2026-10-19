@@ -1,0 +1,13 @@
+{
+    "username":"admin@gmail.com",
+    "password":"admin@123",
+    "name":"anamika",
+    "interest":["Cypress","Java","API"],
+    "gender":"female",
+    "address":{
+ 
+               "area":"Kanpur",
+               "city":"UP",
+               "pincode":"208002"
+              }
+}

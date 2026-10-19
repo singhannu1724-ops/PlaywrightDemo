@@ -1,0 +1,7 @@
+All dropdown values : Select State
+All dropdown values : Andhra Pradesh
+All dropdown values : Arunachal Pradesh
+All dropdown values : Assam
+All dropdown values : Bihar
+All dropdown values : Chhattisgarh
+All dropdown values : Goa
